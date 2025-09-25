@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@action-badges/core": "^0.3.0"
+    "@action-badges/core": "^0.4.0"
   },
   "type": "module"
 }

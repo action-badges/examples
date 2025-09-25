@@ -1,5 +1,5 @@
 name: 'Example JS Action'
 description: 'Example JS Action'
 runs:
-  using: 'node20'
+  using: 'node24'
   main: 'index.js'
